@@ -1,0 +1,146 @@
+{
+  "nav": {
+    "home": "홈",
+    "about": "소개",
+    "projects": "프로젝트",
+    "gallery": "갤러리",
+    "experience": "경력",
+    "contact": "연락처",
+    "menu": "메뉴",
+    "close": "닫기",
+    "selectLanguage": "언어 선택"
+  },
+  "hero": {
+    "welcome": "포트폴리오 & 크리에이티브 쇼케이스",
+    "name": "FANTRA",
+    "tagline": "Digital Creative & Visual Enthusiast",
+    "description": "시각적 미학과 인터랙티브 디지털 미디어, 시네마틱한 분위기와 정밀한 창의성을 결합한 현대적 콘텐츠를 탐구합니다.",
+    "ctaExplore": "Explore Projects",
+    "ctaAbout": "About Me",
+    "ctaContact": "Contact Me",
+    "scrollDown": "스크롤하여 탐색"
+  },
+  "about": {
+    "badge": "소개",
+    "title": "목적 있는 디지털 창의성과 독창적인 개성",
+    "intro": "안녕하세요! Fantra입니다. 매력적인 시각적 콘텐츠 제작과 디지털 미디어 탐구에 헌신하는 디지털 크리에이터입니다.",
+    "paragraph1": "시각적 스토리텔링, 디지털 브랜딩, 인터랙티브 미디어, 콘텐츠 제작에 집중하고 있습니다.",
+    "paragraph2": "디지털 비즈니스와 크리에이티브 기술 경험을 바탕으로 영상 제작, UI 디자인, 적응형 미디어 제작 능력을 지속적으로 확장하고 있습니다.",
+    "moreAboutMe": "더 알아보기",
+    "hideDetails": "접기",
+    "details": {
+      "focusTitle": "주요 관심사 및 핵심 분야",
+      "focusDesc": "시각 콘텐츠 제작, 디지털 브랜딩, 영상 편집, 모션 그래픽, 모던 디지털 플랫폼 탐구.",
+      "valuesTitle": "업무 원칙",
+      "valuesDesc": "구조화된 창의성, 정밀한 디테일, 규율 있는 실행력, 글로벌 시각 트렌드의 지속적인 학습.",
+      "locationTitle": "활동 지역",
+      "locationDesc": "인도네시아 람풍 기반 — 혁신적인 프로젝트와 창의적 협업을 환영합니다."
+    }
+  },
+  "skills": {
+    "badge": "기술 및 역량",
+    "title": "핵심 역량 및 크리에이티브 툴킷",
+    "subtitle": "디지털 프로젝트 구현에 활용되는 창의적 역량과 기술력의 조화.",
+    "categories": {
+      "digital": "디지털 & 미디어",
+      "web": "웹 제작",
+      "tools": "도구 및 플랫폼",
+      "creative": "크리에이티브 & 비주얼"
+    }
+  },
+  "projects": {
+    "badge": "주요 작품",
+    "title": "프로젝트 쇼케이스 및 탐색",
+    "subtitle": "시각 창작물, 디지털 미디어 작업, 인터랙티브 구현 모음.",
+    "categories": {
+      "all": "전체",
+      "website": "웹사이트",
+      "media": "미디어",
+      "design": "디자인",
+      "digital": "디지털",
+      "other": "기타"
+    },
+    "viewProject": "프로젝트 보기",
+    "viewDetails": "상세 정보",
+    "livePreview": "라이브 보기",
+    "sourceCode": "문서",
+    "features": "주요 기능",
+    "toolsUsed": "사용 도구",
+    "year": "연도",
+    "empty": "이 카테고리에는 아직 프로젝트가 없습니다.",
+    "backToProjects": "프로젝트 목록으로",
+    "overview": "개요",
+    "concept": "컨셉 및 접근법",
+    "challenges": "도전 과제 및 해결",
+    "result": "결과 및 영향"
+  },
+  "achievement": {
+    "badge": "성과 및 표창",
+    "title": "마일스톤 및 인정",
+    "subtitle": "역량 인증, 학술적 표창, 크리에이티브 여정의 마일스톤 기록.",
+    "viewAll": "모든 성과 보기",
+    "itemPrefix": "성과"
+  },
+  "gallery": {
+    "badge": "갤러리 & 아카이브",
+    "title": "비주얼 쇼케이스 및 활동 기록",
+    "subtitle": "자격증, 주요 성과, 비하인드 활동의 전경 기록.",
+    "viewAll": "전체 갤러리 열기",
+    "tabs": {
+      "certificate": "자격/수료증",
+      "achievement": "성과",
+      "activity": "활동 기록"
+    },
+    "viewImage": "이미지 확대",
+    "closeLightbox": "닫기 (Esc)",
+    "prevImage": "이전",
+    "nextImage": "다음",
+    "empty": "이 카테고리에 등록된 항목이 없습니다."
+  },
+  "experience": {
+    "badge": "경력",
+    "title": "인턴십 및 실무 경험",
+    "subtitle": "실무 인턴십 과정과 담당했던 전문 직무 경험.",
+    "tabs": {
+      "magang": "인턴십",
+      "kerja": "실무 경험"
+    },
+    "present": "현재",
+    "activities": "주요 업무 및 역할:",
+    "empty": "이 카테고리의 경력 기록이 없습니다."
+  },
+  "contact": {
+    "badge": "연락처",
+    "title": "협업 및 소통하기",
+    "subtitle": "프로젝트 협업, 창의적인 논의 등 언제든지 편하게 연락해 주세요.",
+    "cta": "Contact Me",
+    "directContact": "직접 연락 채널",
+    "sendMessage": "메시지 보내기",
+    "nameLabel": "성함",
+    "emailLabel": "이메일 주소",
+    "subjectLabel": "제목",
+    "messageLabel": "메시지",
+    "namePlaceholder": "성함을 입력하세요...",
+    "emailPlaceholder": "name@example.com",
+    "subjectPlaceholder": "예: 프로젝트 협업 제안",
+    "messagePlaceholder": "메시지를 작성하세요...",
+    "sendButton": "메시지 보내기",
+    "sending": "전송 중...",
+    "successMsg": "메시지가 성공적으로 전송되었습니다! 연락해 주셔서 감사합니다.",
+    "errorMsg": "전송에 실패했습니다. 다시 시도하거나 WhatsApp / Email로 문의 바랍니다."
+  },
+  "footer": {
+    "brand": "FANTRA",
+    "tagline": "Digital Creative & Visual Enthusiast Portfolio",
+    "navigation": "탐색",
+    "connect": "연결",
+    "copyright": "© Fantra. All rights reserved.",
+    "backToTop": "맨 위로"
+  },
+  "common": {
+    "loading": "로딩 중...",
+    "error": "오류가 발생했습니다",
+    "retry": "다시 시도",
+    "placeholderLogo": "FANTRA / LOGO"
+  }
+}

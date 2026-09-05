@@ -1,0 +1,146 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "gallery": "Gallery",
+    "experience": "Experience",
+    "contact": "Contact",
+    "menu": "Menu",
+    "close": "Close",
+    "selectLanguage": "Select Language"
+  },
+  "hero": {
+    "welcome": "PORTFOLIO & CREATIVE SHOWCASE",
+    "name": "FANTRA",
+    "tagline": "Digital Creative & Visual Enthusiast",
+    "description": "Exploring visual aesthetics, interactive digital media, and modern content creation combining creative precision with a cinematic visual atmosphere.",
+    "ctaExplore": "Explore Projects",
+    "ctaAbout": "About Me",
+    "ctaContact": "Contact Me",
+    "scrollDown": "Scroll to Explore"
+  },
+  "about": {
+    "badge": "ABOUT ME",
+    "title": "Purposeful Digital Creativity with Distinct Character",
+    "intro": "Hello! I am Fantra, a Digital Creative & Visual Enthusiast dedicated to crafting compelling visual content, exploring digital media, and detail-oriented creative projects.",
+    "paragraph1": "My creative focus spans visual storytelling, digital branding, interactive media, and content creation. I believe every visual piece should deliver a powerful message through balanced composition, precise typography, and profound aesthetic nuance.",
+    "paragraph2": "With a strong background in digital business and creative technology exploration, I continually advance my capabilities across video production, visual curation, interface design, and adaptive digital media creation.",
+    "moreAboutMe": "More About Me",
+    "hideDetails": "Hide Details",
+    "details": {
+      "focusTitle": "Core Focus & Interests",
+      "focusDesc": "Visual content creation, digital branding, multimedia editing, motion graphics, and exploring modern digital platforms.",
+      "valuesTitle": "Work Principles",
+      "valuesDesc": "Structured creativity, micro-detail precision, disciplined execution, and continuous learning aligned with global visual trends.",
+      "locationTitle": "Location & Availability",
+      "locationDesc": "Based in Lampung, Indonesia — open for creative collaborations and forward-thinking digital projects."
+    }
+  },
+  "skills": {
+    "badge": "SKILLS & CAPABILITIES",
+    "title": "Core Domains & Creative Toolkit",
+    "subtitle": "A synergistic blend of creative and technical proficiencies deployed across digital projects.",
+    "categories": {
+      "digital": "Digital & Media",
+      "web": "Web Creation",
+      "tools": "Tools & Platform",
+      "creative": "Creative & Visual"
+    }
+  },
+  "projects": {
+    "badge": "SELECTED WORKS",
+    "title": "Project Showcase & Exploration",
+    "subtitle": "A curated collection of visual creations, digital media works, and interactive implementations.",
+    "categories": {
+      "all": "All",
+      "website": "Website",
+      "media": "Media",
+      "design": "Design",
+      "digital": "Digital",
+      "other": "Other"
+    },
+    "viewProject": "View Project",
+    "viewDetails": "Full Details",
+    "livePreview": "Visit Live",
+    "sourceCode": "Documentation",
+    "features": "Key Features",
+    "toolsUsed": "Tools & Tech",
+    "year": "Year",
+    "empty": "No projects found in this category.",
+    "backToProjects": "Back to Projects",
+    "overview": "Overview",
+    "concept": "Concept & Approach",
+    "challenges": "Challenges & Solutions",
+    "result": "Results & Impact"
+  },
+  "achievement": {
+    "badge": "ACHIEVEMENTS",
+    "title": "Milestones & Recognition",
+    "subtitle": "A track record of competencies, academic appreciation, and milestones achieved throughout the journey.",
+    "viewAll": "View All Achievement",
+    "itemPrefix": "Achievement"
+  },
+  "gallery": {
+    "badge": "GALLERY & ARCHIVE",
+    "title": "Visual Showcase & Activity Archives",
+    "subtitle": "Documentation of certificates, key achievements, and behind-the-scenes activities.",
+    "viewAll": "Open Full Gallery",
+    "tabs": {
+      "certificate": "Certificate",
+      "achievement": "Achievement",
+      "activity": "Activity"
+    },
+    "viewImage": "Enlarge Image",
+    "closeLightbox": "Close (Esc)",
+    "prevImage": "Previous",
+    "nextImage": "Next",
+    "empty": "No items recorded in this category."
+  },
+  "experience": {
+    "badge": "EXPERIENCE",
+    "title": "Internships & Professional Roles",
+    "subtitle": "Practical internship journeys and real-world professional responsibilities undertaken.",
+    "tabs": {
+      "magang": "INTERNSHIP",
+      "kerja": "WORK"
+    },
+    "present": "Present",
+    "activities": "Responsibilities & Key Activities:",
+    "empty": "No experience records found in this category."
+  },
+  "contact": {
+    "badge": "GET IN TOUCH",
+    "title": "Let's Connect & Collaborate",
+    "subtitle": "Interested in working together, discussing creative ideas, or simply saying hello? Reach out anytime.",
+    "cta": "Contact Me",
+    "directContact": "Direct Channels",
+    "sendMessage": "Send a Message",
+    "nameLabel": "Your Name",
+    "emailLabel": "Email Address",
+    "subjectLabel": "Subject",
+    "messageLabel": "Message",
+    "namePlaceholder": "Enter your full name...",
+    "emailPlaceholder": "name@example.com",
+    "subjectPlaceholder": "e.g. Project Collaboration / Inquiry",
+    "messagePlaceholder": "Write your message here...",
+    "sendButton": "Send Message",
+    "sending": "Sending...",
+    "successMsg": "Your message has been sent successfully! Thank you for contacting Fantra.",
+    "errorMsg": "Failed to send message. Please try again or reach out via WhatsApp / Email."
+  },
+  "footer": {
+    "brand": "FANTRA",
+    "tagline": "Digital Creative & Visual Enthusiast Portfolio",
+    "navigation": "Navigation",
+    "connect": "Connect",
+    "copyright": "© Fantra. All rights reserved.",
+    "backToTop": "Back to Top"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "placeholderLogo": "FANTRA / LOGO"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "about": "私について",
+    "projects": "プロジェクト",
+    "gallery": "ギャラリー",
+    "experience": "経歴",
+    "contact": "お問い合わせ",
+    "menu": "メニュー",
+    "close": "閉じる",
+    "selectLanguage": "言語を選択"
+  },
+  "hero": {
+    "welcome": "ポートフォリオ ＆ クリエイティブ ショーケース",
+    "name": "FANTRA",
+    "tagline": "Digital Creative & Visual Enthusiast",
+    "description": "視覚的美学、インタラクティブデジタルメディア、そしてクリエイティブな精度とシネマティックな視覚体験を融合させたモダンコンテンツの探求。",
+    "ctaExplore": "Explore Projects",
+    "ctaAbout": "About Me",
+    "ctaContact": "Contact Me",
+    "scrollDown": "スクロールして探索"
+  },
+  "about": {
+    "badge": "プロフィール",
+    "title": "目的を持ったデジタルクリエイティビティ",
+    "intro": "こんにちは！Fantraです。魅力的なビジュアルコンテンツの制作とデジタルメディアの探求に情熱を注ぐデジタルクリエイターです。",
+    "paragraph1": "ビジュアルストーリーテリング、デジタルブランディング、インタラクティブメディア、コンテンツ制作に焦点を当てています。",
+    "paragraph2": "デジタルビジネスとクリエイティブテクノロジーの背景を持ち、動画制作、UIデザイン、適応性の高いデジタルメディア制作でスキルを拡大し続けています。",
+    "moreAboutMe": "詳細を見る",
+    "hideDetails": "詳細を閉じる",
+    "details": {
+      "focusTitle": "主な関心と焦点",
+      "focusDesc": "ビジュアルコンテンツ制作、デジタルブランディング、動画編集、モーショングラフィックス、モダンデジタルプラットフォームの探求。",
+      "valuesTitle": "仕事の原則",
+      "valuesDesc": "構造化された創造性、微細なディテールへのこだわり、規律ある実行、グローバルトレンドの継続的な学習。",
+      "locationTitle": "拠点と活動",
+      "locationDesc": "インドネシア・ランプンを拠点とし、革新的なコラボレーションを歓迎します。"
+    }
+  },
+  "skills": {
+    "badge": "スキル ＆ 能力",
+    "title": "能力ドメインと制作ツール",
+    "subtitle": "デジタルプロジェクトの具現化に活用するクリエイティブと技術の融合。",
+    "categories": {
+      "digital": "デジタル ＆ メディア",
+      "web": "Web制作",
+      "tools": "ツール ＆ プラットフォーム",
+      "creative": "クリエイティブ ＆ ビジュアル"
+    }
+  },
+  "projects": {
+    "badge": "厳選作品",
+    "title": "プロジェクトショーケース",
+    "subtitle": "ビジュアル作品、デジタルメディア、インタラクティブ実装のキュレーションコレクション。",
+    "categories": {
+      "all": "すべて",
+      "website": "ウェブサイト",
+      "media": "メディア",
+      "design": "デザイン",
+      "digital": "デジタル",
+      "other": "その他"
+    },
+    "viewProject": "プロジェクトを見る",
+    "viewDetails": "詳細を見る",
+    "livePreview": "ライブプレビュー",
+    "sourceCode": "ドキュメント",
+    "features": "主な機能",
+    "toolsUsed": "使用ツール",
+    "year": "年",
+    "empty": "このカテゴリーにはまだプロジェクトがありません。",
+    "backToProjects": "プロジェクト一覧に戻る",
+    "overview": "概要",
+    "concept": "コンセプト",
+    "challenges": "課題と解決",
+    "result": "成果"
+  },
+  "achievement": {
+    "badge": "実績",
+    "title": "マイルストーン ＆ 評価",
+    "subtitle": "能力認定、学術的評価、クリエイティブジャーニーの軌跡。",
+    "viewAll": "実績をすべて見る",
+    "itemPrefix": "実績"
+  },
+  "gallery": {
+    "badge": "ギャラリー ＆ アーカイブ",
+    "title": "ビジュアルショーケース ＆ 活動記録",
+    "subtitle": "認定証、受賞歴、舞台裏の活動記録ドキュメンテーション。",
+    "viewAll": "ギャラリーを開く",
+    "tabs": {
+      "certificate": "資格・認定",
+      "achievement": "実績",
+      "activity": "活動記録"
+    },
+    "viewImage": "画像を拡大",
+    "closeLightbox": "閉じる (Esc)",
+    "prevImage": "前へ",
+    "nextImage": "次へ",
+    "empty": "このカテゴリーにはまだ記録がありません。"
+  },
+  "experience": {
+    "badge": "経歴",
+    "title": "インターンシップ ＆ 職務経験",
+    "subtitle": "実践的なインターンシップおよび専門職務の職務経歴。",
+    "tabs": {
+      "magang": "インターンシップ",
+      "kerja": "職務経験"
+    },
+    "present": "現在",
+    "activities": "主な担当業務:",
+    "empty": "このカテゴリーの経歴はまだありません。"
+  },
+  "contact": {
+    "badge": "お問い合わせ",
+    "title": "つながり ＆ コラボレーション",
+    "subtitle": "共同プロジェクトやクリエイティブなご相談など、お気軽にご連絡ください。",
+    "cta": "Contact Me",
+    "directContact": "ダイレクト連絡先",
+    "sendMessage": "メッセージを送信",
+    "nameLabel": "お名前",
+    "emailLabel": "メールアドレス",
+    "subjectLabel": "件名",
+    "messageLabel": "メッセージ",
+    "namePlaceholder": "お名前を入力...",
+    "emailPlaceholder": "name@example.com",
+    "subjectPlaceholder": "例: プロジェクト相談",
+    "messagePlaceholder": "メッセージを入力してください...",
+    "sendButton": "送信する",
+    "sending": "送信中...",
+    "successMsg": "メッセージが送信されました！ご連絡ありがとうございます。",
+    "errorMsg": "送信に失敗しました。時間をおいて再試行するかWhatsApp / Emailでご連絡ください。"
+  },
+  "footer": {
+    "brand": "FANTRA",
+    "tagline": "Digital Creative & Visual Enthusiast Portfolio",
+    "navigation": "ナビゲーション",
+    "connect": "つながる",
+    "copyright": "© Fantra. All rights reserved.",
+    "backToTop": "トップへ戻る"
+  },
+  "common": {
+    "loading": "読み込み中...",
+    "error": "エラーが発生しました",
+    "retry": "再試行",
+    "placeholderLogo": "FANTRA / LOGO"
+  }
+}

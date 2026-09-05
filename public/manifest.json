@@ -1,0 +1,27 @@
+{
+  "name": "Portofolio Fahri Andrian Saputra — Web Developer",
+  "short_name": "Portofolio Fahri Andrian Saputra",
+  "description": "Portofolio Fahri Andrian Saputra - Web Developer dari Tanggamus, Lampung",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#38bdf8",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["portfolio", "developer", "web"],
+  "lang": "id",
+  "dir": "ltr"
+}

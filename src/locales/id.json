@@ -1,0 +1,146 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "gallery": "Gallery",
+    "experience": "Experience",
+    "contact": "Contact",
+    "menu": "Menu",
+    "close": "Tutup",
+    "selectLanguage": "Pilih Bahasa"
+  },
+  "hero": {
+    "welcome": "PORTFOLIO & CREATIVE SHOWCASE",
+    "name": "FANTRA",
+    "tagline": "Digital Creative & Visual Enthusiast",
+    "description": "Mengeksplorasi estetika visual, konten digital interaktif, dan kreasi media modern yang menggabungkan presisi kreatif dengan pengalaman visual cinematic.",
+    "ctaExplore": "Explore Projects",
+    "ctaAbout": "About Me",
+    "ctaContact": "Contact Me",
+    "scrollDown": "Scroll untuk Menjelajah"
+  },
+  "about": {
+    "badge": "TENTANG SAYA",
+    "title": "Kreativitas Digital yang Terarah & Berkarakter",
+    "intro": "Halo! Saya Fantra, seorang Digital Creative & Visual Enthusiast yang berdedikasi menciptakan konten visual menarik, eksplorasi media digital, dan project kreatif berorientasi detail.",
+    "paragraph1": "Fokus saya mencakup visual storytelling, digital branding, media interaktif, dan kreasi konten kreatif. Saya percaya bahwa setiap karya visual harus mampu menyampaikan pesan kuat dengan komposisi yang seimbang, tipografi presisi, dan nuansa estetik yang mendalam.",
+    "paragraph2": "Dengan latar belakang dalam bisnis digital dan eksplorasi teknologi kreatif, saya terus memperluas keahlian melalui produksi konten video, kurasi visual, desain antarmuka, serta pengembangan media digital yang adaptif.",
+    "moreAboutMe": "Lebih Banyak Tentang Saya",
+    "hideDetails": "Tutup Rincian",
+    "details": {
+      "focusTitle": "Fokus & Minat Utama",
+      "focusDesc": "Pembuatan konten visual, digital branding, editing multimedia, motion graphics, dan eksplorasi platform digital modern.",
+      "valuesTitle": "Prinsip Kerja",
+      "valuesDesc": "Kreativitas terstruktur, perhatian pada detail mikro, kedisiplinan eksekusi, dan pembelajaran berkelanjutan terhadap tren visual global.",
+      "locationTitle": "Domisili & Aktivitas",
+      "locationDesc": "Berbasis di Lampung, Indonesia — terbuka untuk kolaborasi kreatif dan project digital inovatif."
+    }
+  },
+  "skills": {
+    "badge": "KEAHLIAN & KAPABILITAS",
+    "title": "Domain Kemampuan & Perangkat Kerja",
+    "subtitle": "Kombinasi keahlian kreatif dan teknis yang digunakan untuk merealisasikan project digital.",
+    "categories": {
+      "digital": "Digital & Media",
+      "web": "Web Creation",
+      "tools": "Tools & Platform",
+      "creative": "Creative & Visual"
+    }
+  },
+  "projects": {
+    "badge": "KARYA PILIHAN",
+    "title": "Showcase & Eksplorasi Project",
+    "subtitle": "Koleksi karya kreasi visual, media digital, dan implementasi teknologi interaktif.",
+    "categories": {
+      "all": "Semua",
+      "website": "Website",
+      "media": "Media",
+      "design": "Design",
+      "digital": "Digital",
+      "other": "Other"
+    },
+    "viewProject": "Lihat Project",
+    "viewDetails": "Detail Lengkap",
+    "livePreview": "Kunjungi Live",
+    "sourceCode": "Dokumentasi",
+    "features": "Fitur Utama",
+    "toolsUsed": "Tools & Tech",
+    "year": "Tahun",
+    "empty": "Belum ada project di kategori ini.",
+    "backToProjects": "Kembali ke Projects",
+    "overview": "Ikhtisar",
+    "concept": "Konsep & Pendekatan",
+    "challenges": "Tantangan & Solusi",
+    "result": "Hasil & Dampak"
+  },
+  "achievement": {
+    "badge": "PENCAPAIAN",
+    "title": "Apresiasi & Milestone",
+    "subtitle": "Rekam jejak kompetensi, apresiasi akademik, dan pencapaian selama perjalanan kreatif.",
+    "viewAll": "Lihat Semua Achievement",
+    "itemPrefix": "Pencapaian"
+  },
+  "gallery": {
+    "badge": "GALERI & DOKUMENTASI",
+    "title": "Koleksi Visual & Arsip Kegiatan",
+    "subtitle": "Dokumentasi sertifikasi, capaian, dan aktivitas di balik layar.",
+    "viewAll": "Buka Galeri Penuh",
+    "tabs": {
+      "certificate": "Certificate",
+      "achievement": "Achievement",
+      "activity": "Activity"
+    },
+    "viewImage": "Perbesar Gambar",
+    "closeLightbox": "Tutup (Esc)",
+    "prevImage": "Sebelumnya",
+    "nextImage": "Selanjutnya",
+    "empty": "Belum ada arsip di kategori ini."
+  },
+  "experience": {
+    "badge": "PENGALAMAN",
+    "title": "Jejak Praktik & Pengalaman Kerja",
+    "subtitle": "Riwayat pengalaman praktik lapangan dan peran profesional yang pernah dijalani.",
+    "tabs": {
+      "magang": "MAGANG",
+      "kerja": "KERJA"
+    },
+    "present": "Sekarang",
+    "activities": "Tanggung Jawab & Aktivitas:",
+    "empty": "Belum ada riwayat di kategori ini."
+  },
+  "contact": {
+    "badge": "HUBUNGI SAYA",
+    "title": "Mari Berkolaborasi & Terhubung",
+    "subtitle": "Tertarik untuk bekerja sama, diskusi project kreatif, atau sekadar menyapa? Jangan ragu untuk menghubungi.",
+    "cta": "Contact Me",
+    "directContact": "Kontak Langsung",
+    "sendMessage": "Kirim Pesan",
+    "nameLabel": "Nama Anda",
+    "emailLabel": "Alamat Email",
+    "subjectLabel": "Subjek / Topik",
+    "messageLabel": "Pesan",
+    "namePlaceholder": "Masukkan nama lengkap...",
+    "emailPlaceholder": "nama@email.com",
+    "subjectPlaceholder": "Contoh: Diskusi Project / Kolaborasi",
+    "messagePlaceholder": "Tuliskan pesan Anda di sini...",
+    "sendButton": "Kirim Pesan",
+    "sending": "Mengirim...",
+    "successMsg": "Pesan Anda berhasil dikirim! Terima kasih telah menghubungi Fantra.",
+    "errorMsg": "Gagal mengirim pesan. Silakan coba lagi atau hubungi via WhatsApp / Email."
+  },
+  "footer": {
+    "brand": "FANTRA",
+    "tagline": "Digital Creative & Visual Enthusiast Portfolio",
+    "navigation": "Navigasi",
+    "connect": "Terhubung",
+    "copyright": "© Fantra. Seluruh hak cipta dilindungi.",
+    "backToTop": "Kembali ke Atas"
+  },
+  "common": {
+    "loading": "Memuat...",
+    "error": "Terjadi kesalahan",
+    "retry": "Coba Lagi",
+    "placeholderLogo": "FANTRA / LOGO"
+  }
+}

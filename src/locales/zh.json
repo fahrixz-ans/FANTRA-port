@@ -1,0 +1,146 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "关于",
+    "projects": "项目",
+    "gallery": "画廊",
+    "experience": "经历",
+    "contact": "联系",
+    "menu": "菜单",
+    "close": "关闭",
+    "selectLanguage": "选择语言"
+  },
+  "hero": {
+    "welcome": "作品集与创意展示",
+    "name": "FANTRA",
+    "tagline": "Digital Creative & Visual Enthusiast",
+    "description": "探索视觉美学、互动数字媒体与现代内容创作，融合创意精准度与电影感视觉体验。",
+    "ctaExplore": "Explore Projects",
+    "ctaAbout": "About Me",
+    "ctaContact": "Contact Me",
+    "scrollDown": "向下滚动探索"
+  },
+  "about": {
+    "badge": "关于我",
+    "title": "具独特性与明确目标的数字创意",
+    "intro": "你好！我是 Fantra，一名专注于视觉内容创作、数字媒体探索与细节导向创意的爱好者。",
+    "paragraph1": "我的创作聚焦于视觉叙事、数字品牌塑造、互动媒体与内容创作。",
+    "paragraph2": "凭借数字商务与创意技术的背景，我持续拓展在视频制作、视觉策展、界面设计与自适应数字媒体方面的专业能力。",
+    "moreAboutMe": "了解更多",
+    "hideDetails": "收起详情",
+    "details": {
+      "focusTitle": "核心焦点与兴趣",
+      "focusDesc": "视觉内容创作、数字品牌、多媒体剪辑、动态图形与探索现代数字平台。",
+      "valuesTitle": "工作原则",
+      "valuesDesc": "结构化创意、微观细节把控、严谨执行与紧跟全球视觉趋势。",
+      "locationTitle": "所在地与协作",
+      "locationDesc": "常驻印尼楠榜 — 欢迎创新项目与创意合作。"
+    }
+  },
+  "skills": {
+    "badge": "技能与专长",
+    "title": "能力领域与工具集",
+    "subtitle": "应用于数字项目的创意与技术能力的有机结合。",
+    "categories": {
+      "digital": "数字与媒体",
+      "web": "Web创作",
+      "tools": "工具与平台",
+      "creative": "创意与视觉"
+    }
+  },
+  "projects": {
+    "badge": "精选作品",
+    "title": "项目展示与探索",
+    "subtitle": "视觉创作、数字媒体与互动技术实施的精选集合。",
+    "categories": {
+      "all": "全部",
+      "website": "网站",
+      "media": "媒体",
+      "design": "设计",
+      "digital": "数字",
+      "other": "其他"
+    },
+    "viewProject": "查看项目",
+    "viewDetails": "详细信息",
+    "livePreview": "在线预览",
+    "sourceCode": "文档说明",
+    "features": "核心功能",
+    "toolsUsed": "技术与工具",
+    "year": "年份",
+    "empty": "该分类下暂无项目。",
+    "backToProjects": "返回项目列表",
+    "overview": "概述",
+    "concept": "理念与方法",
+    "challenges": "挑战与方案",
+    "result": "成果与成效"
+  },
+  "achievement": {
+    "badge": "成就与荣誉",
+    "title": "里程碑与认可",
+    "subtitle": "专业能力认证、学术认可与创意旅程中的里程碑记录。",
+    "viewAll": "查看所有成就",
+    "itemPrefix": "成就"
+  },
+  "gallery": {
+    "badge": "画廊与档案",
+    "title": "视觉展示与活动档案",
+    "subtitle": "证书、关键成就与幕后活动的全景记录。",
+    "viewAll": "打开完整画廊",
+    "tabs": {
+      "certificate": "证书认证",
+      "achievement": "成就荣誉",
+      "activity": "活动记录"
+    },
+    "viewImage": "放大查看",
+    "closeLightbox": "关闭 (Esc)",
+    "prevImage": "上一张",
+    "nextImage": "下一张",
+    "empty": "该分类下暂无档案记录。"
+  },
+  "experience": {
+    "badge": "经历与实践",
+    "title": "实习与职业经历",
+    "subtitle": "实践性实习历程与专业岗位工作经历。",
+    "tabs": {
+      "magang": "实习经历",
+      "kerja": "工作经历"
+    },
+    "present": "至今",
+    "activities": "主要职责与活动:",
+    "empty": "该分类下暂无经历记录。"
+  },
+  "contact": {
+    "badge": "联系沟通",
+    "title": "建立连接与探讨合作",
+    "subtitle": "有兴趣共同合作、探讨创意项目或打个招呼？欢迎随时联系。",
+    "cta": "Contact Me",
+    "directContact": "直接渠道",
+    "sendMessage": "发送留言",
+    "nameLabel": "您的姓名",
+    "emailLabel": "电子邮箱",
+    "subjectLabel": "主题",
+    "messageLabel": "留言内容",
+    "namePlaceholder": "输入您的姓名...",
+    "emailPlaceholder": "name@example.com",
+    "subjectPlaceholder": "例如: 项目合作探讨",
+    "messagePlaceholder": "在这里输入您的留言...",
+    "sendButton": "发送留言",
+    "sending": "发送中...",
+    "successMsg": "留言发送成功！感谢您联系 Fantra。",
+    "errorMsg": "发送失败，请稍后重试或通过 WhatsApp / 邮件联系。"
+  },
+  "footer": {
+    "brand": "FANTRA",
+    "tagline": "Digital Creative & Visual Enthusiast Portfolio",
+    "navigation": "导航",
+    "connect": "连接",
+    "copyright": "© Fantra. 保留所有权利。",
+    "backToTop": "回到顶部"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "发生错误",
+    "retry": "重试",
+    "placeholderLogo": "FANTRA / LOGO"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Fantra",
+  "description": "Portfolio Resmi Fantra — Digital Creative & Visual Enthusiast",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

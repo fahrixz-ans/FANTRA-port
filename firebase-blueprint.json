@@ -1,0 +1,29 @@
+{
+  "entities": {
+    "settings": {
+      "title": "Portfolio Settings",
+      "description": "Custom configuration for portfolio data, theme, and solar system parameters",
+      "type": "object",
+      "properties": {
+        "personal": { "type": "object" },
+        "hero": { "type": "object" },
+        "about": { "type": "object" },
+        "projects": { "type": "array" },
+        "services": { "type": "array" },
+        "skills": { "type": "array" },
+        "solarSystem": { "type": "object" },
+        "themeSettings": { "type": "object" }
+      }
+    },
+    "guestbook": {
+      "title": "Guestbook Notes",
+      "description": "Visitor messages and notes",
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "message": { "type": "string" },
+        "createdAt": { "type": "string" }
+      }
+    }
+  }
+}

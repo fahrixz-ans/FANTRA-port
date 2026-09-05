@@ -1,0 +1,146 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "projects": "Projets",
+    "gallery": "Galerie",
+    "experience": "Expérience",
+    "contact": "Contact",
+    "menu": "Menu",
+    "close": "Fermer",
+    "selectLanguage": "Choisir la langue"
+  },
+  "hero": {
+    "welcome": "PORTFOLIO & VITRINE CRÉATIVE",
+    "name": "FANTRA",
+    "tagline": "Digital Creative & Visual Enthusiast",
+    "description": "Explorer l'esthétique visuelle, les médias numériques interactifs et la création de contenus modernes alliant précision créative et atmosphère cinématographique.",
+    "ctaExplore": "Explore Projects",
+    "ctaAbout": "About Me",
+    "ctaContact": "Contact Me",
+    "scrollDown": "Faire défiler pour Explorer"
+  },
+  "about": {
+    "badge": "À PROPOS DE MOI",
+    "title": "Créativité Numérique Ciblée & Affirmée",
+    "intro": "Bonjour ! Je suis Fantra, un Passionné de Création Numérique et Visuelle dédié à la conception de contenus percutants et de projets numériques soignés.",
+    "paragraph1": "Mon travail se concentre sur le storytelling visuel, le branding numérique, les médias interactifs et la production de contenus.",
+    "paragraph2": "Fort d'une formation en commerce numérique et technologies créatives, je perfectionne continuellement mes compétences en vidéo, curation visuelle et design d'interface.",
+    "moreAboutMe": "En savoir plus",
+    "hideDetails": "Masquer les détails",
+    "details": {
+      "focusTitle": "Centres d'intérêt",
+      "focusDesc": "Création de contenu visuel, branding numérique, montage vidéo, motion design et plateformes numériques modernes.",
+      "valuesTitle": "Principes de travail",
+      "valuesDesc": "Créativité structurée, souci du détail, rigueur d'exécution et apprentissage continu.",
+      "locationTitle": "Localisation",
+      "locationDesc": "Basé à Lampung, Indonésie — disponible pour des collaborations créatives et des projets innovants."
+    }
+  },
+  "skills": {
+    "badge": "COMPÉTENCES & CAPACITÉS",
+    "title": "Domaines d'Expertise & Outils",
+    "subtitle": "Une combinaison de compétences créatives et techniques au service de projets numériques.",
+    "categories": {
+      "digital": "Numérique & Médias",
+      "web": "Création Web",
+      "tools": "Outils & Plateformes",
+      "creative": "Créatif & Visuel"
+    }
+  },
+  "projects": {
+    "badge": "PROJETS SÉLECTIONNÉS",
+    "title": "Vitrine de Projets & Explorations",
+    "subtitle": "Une collection soignée de créations visuelles, médias numériques et intégrations interactives.",
+    "categories": {
+      "all": "Tous",
+      "website": "Site Web",
+      "media": "Médias",
+      "design": "Design",
+      "digital": "Numérique",
+      "other": "Autres"
+    },
+    "viewProject": "Voir le projet",
+    "viewDetails": "Détails complets",
+    "livePreview": "Aperçu en direct",
+    "sourceCode": "Documentation",
+    "features": "Fonctionnalités clés",
+    "toolsUsed": "Outils & Technologies",
+    "year": "Année",
+    "empty": "Aucun projet dans cette catégorie.",
+    "backToProjects": "Retour aux projets",
+    "overview": "Aperçu",
+    "concept": "Concept & Approche",
+    "challenges": "Défis & Solutions",
+    "result": "Résultats & Impact"
+  },
+  "achievement": {
+    "badge": "RÉALISATIONS",
+    "title": "Étapes & Distinctions",
+    "subtitle": "Parcours de compétences, reconnaissances académiques et étapes franchies.",
+    "viewAll": "Voir toutes les réalisations",
+    "itemPrefix": "Réalisation"
+  },
+  "gallery": {
+    "badge": "GALERIE & ARCHIVES",
+    "title": "Vitrine Visuelle & Archives d'Activités",
+    "subtitle": "Documentation des certificats, réalisations clés et activités en coulisses.",
+    "viewAll": "Ouvrir la Galerie Complète",
+    "tabs": {
+      "certificate": "Certificats",
+      "achievement": "Réalisations",
+      "activity": "Activités"
+    },
+    "viewImage": "Agrandir l'image",
+    "closeLightbox": "Fermer (Esc)",
+    "prevImage": "Précédent",
+    "nextImage": "Suivant",
+    "empty": "Aucun élément dans cette catégorie."
+  },
+  "experience": {
+    "badge": "EXPÉRIENCE",
+    "title": "Stages & Rôles Professionnels",
+    "subtitle": "Parcours de stages pratiques et responsabilités professionnelles assurées.",
+    "tabs": {
+      "magang": "STAGE",
+      "kerja": "TRAVAIL"
+    },
+    "present": "Présent",
+    "activities": "Responsabilités & Activités clés :",
+    "empty": "Aucune expérience enregistrée dans cette catégorie."
+  },
+  "contact": {
+    "badge": "ME CONTACTER",
+    "title": "Connectons-nous & Collaborons",
+    "subtitle": "Intéressé par une collaboration, une discussion créative ou simplement pour dire bonjour ? Écrivez-moi.",
+    "cta": "Contact Me",
+    "directContact": "Canaux directs",
+    "sendMessage": "Envoyer un message",
+    "nameLabel": "Votre nom",
+    "emailLabel": "Adresse e-mail",
+    "subjectLabel": "Objet",
+    "messageLabel": "Message",
+    "namePlaceholder": "Entrez votre nom complet...",
+    "emailPlaceholder": "nom@exemple.com",
+    "subjectPlaceholder": "Ex : Collaboration sur un projet",
+    "messagePlaceholder": "Écrivez votre message ici...",
+    "sendButton": "Envoyer le message",
+    "sending": "Envoi en cours...",
+    "successMsg": "Votre message a été envoyé avec succès ! Merci d'avoir contacté Fantra.",
+    "errorMsg": "Échec de l'envoi du message. Veuillez réessayer ou me contacter par WhatsApp / Email."
+  },
+  "footer": {
+    "brand": "FANTRA",
+    "tagline": "Digital Creative & Visual Enthusiast Portfolio",
+    "navigation": "Navigation",
+    "connect": "Connecter",
+    "copyright": "© Fantra. Tous droits réservés.",
+    "backToTop": "Haut de page"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "retry": "Réessayer",
+    "placeholderLogo": "FANTRA / LOGO"
+  }
+}
